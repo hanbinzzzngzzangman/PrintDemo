@@ -1,5 +1,5 @@
 #변수 선언
-name = "Alice"
+name = "Seo Han Bin"
 age = 25
 score = 95.5
 
